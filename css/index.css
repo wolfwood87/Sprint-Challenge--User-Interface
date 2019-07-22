@@ -174,3 +174,12 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.container-about-page{
+        width: 800px;
+        margin: 0 auto;
+}
+.about-top-content{
+    border-bottom: 1px solid black;
+    padding: 2%;
+    margin-bottom: 3%;
+}
