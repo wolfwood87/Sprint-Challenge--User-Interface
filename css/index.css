@@ -179,9 +179,8 @@ footer nav a {
         margin: 0 auto;
 }
 .about-top-content{
-    border-bottom: 1px solid black;
+    border-bottom: 1px dotted black;
     padding: 2%;
-    margin-bottom: 3%;
 }
 .description{
     width: 45%;
@@ -193,10 +192,10 @@ footer nav a {
 
 }
 .about-middle{
-    height: 50vw;
+    height: 55vw;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
 }
 .about-button{
@@ -208,4 +207,8 @@ footer nav a {
 	text-align: center;
 	padding: .5vw;
 	color: black;
+}
+.about-button:hover{
+    background: grey;
+    color: white;
 }
