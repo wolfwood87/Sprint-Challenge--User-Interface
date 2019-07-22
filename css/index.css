@@ -209,6 +209,13 @@ footer nav a {
 	color: black;
 }
 .about-button:hover{
-    background: grey;
+    background: silver;
     color: white;
+}
+.about-bottom{
+    padding: 2%;
+    margin-bottom: 2%;
+}
+footer nav a:hover{
+    color: silver;
 }
